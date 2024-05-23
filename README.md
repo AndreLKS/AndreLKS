@@ -5,24 +5,19 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: **Linguagens de Programação e Frameworks:
-
-                  PHP
+  🦄 Linguagens:
+                PHP
                   Angular
                   TypeScript
                   Banco de Dados:
-                  
-                  PostgreSQL
+                PostgreSQL
                   SQL Server
                   OracleDB
                   MySQL
-                  
-                  DevOps:
-                  
+               DevOps:
                   Docker
                   Azure
                   AWS
-**
 </p>
 
 <p align="left">
