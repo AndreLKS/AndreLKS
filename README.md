@@ -12,7 +12,7 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![PGSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresq)
+![PGSQL](https://img.shields.io/badge/postgresql-333333?style=flat&logo=&logo=postgresq)
 
 **Utilidades**
 
