@@ -5,19 +5,13 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens:
-                PHP
-                  Angular
-                  TypeScript
-                  Banco de Dados:
-                PostgreSQL
-                  SQL Server
-                  OracleDB
-                  MySQL
-               DevOps:
-                  Docker
-                  Azure
-                  AWS
+  🦄 Linguagens: PHP, Angular, TypeScript, Ruby On Rails
+</p>
+<p align="left">
+    Banco de Dados: PostgreSQL, SQL Server, OracleDB, MySQL
+</p>
+<p align="left">
+DevOps: Docker, Azure, AWS
 </p>
 
 <p align="left">
