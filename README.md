@@ -3,16 +3,17 @@
 <p align="left"> 
     Sou um desenvolvedor full stack com 3 anos de experiência na criação e manutenção de aplicações web. Minha jornada na tecnologia me permitiu trabalhar com uma ampla gama de ferramentas e tecnologias, tanto no front-end quanto no back-end.
 </p>
-**Aplicações e dados**
 
 
+**Linguagens**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
+![PHP](https://img.shields.io/badge/-php-333333?style=flat&logo=php)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![PGSQL](https://img.shields.io/badge/-postgresql-333333?style=flat&logo=postgresq)
+
 
 **Utilidades**
 
