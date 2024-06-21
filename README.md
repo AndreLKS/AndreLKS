@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-    Sou um desenvolvedor full stack com 3 anos de experiência na criação e manutenção de aplicações web. Minha jornada na tecnologia me permitiu trabalhar com uma ampla gama de ferramentas e tecnologias, tanto no front-end quanto no back-end.
+    Sou um desenvolvedor full stack experiência na criação e manutenção de aplicações web. Minha jornada na tecnologia me permitiu trabalhar com uma ampla gama de ferramentas e tecnologias, tanto no front-end quanto no back-end.
 </p>
 
 
