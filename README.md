@@ -1,11 +1,11 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="computer illustration" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-    Sou um desenvolvedor full stack experiência na criação e manutenção de aplicações web. Minha jornada na tecnologia me permitiu trabalhar com uma ampla gama de ferramentas e tecnologias, tanto no front-end quanto no back-end.
+    I am a full stack developer with experience in creating and maintaining web applications. My journey in technology has allowed me to work with a wide range of tools and technologies, both in the front-end and back-end.
 </p>
 
 
-**Linguagens**
+**Languages**
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -17,7 +17,7 @@
 ![PGSQL](https://img.shields.io/badge/-postgresql-333333?style=flat&logo=postgresq)
 
 
-**Utilidades**
+**Utilities**
 
 ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
@@ -30,7 +30,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Travis](https://img.shields.io/badge/-Travis-333333?style=flat&logo=travis)
 
-**Ferramentas de desenvolvimento**
+**Development Tools**
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
@@ -42,7 +42,7 @@
 
 
 <p align="left">
-  💌 Entre em contato: ⤵️
+  💌 Get in touch: ⤵️
 </p>
 
 <p align="left">
