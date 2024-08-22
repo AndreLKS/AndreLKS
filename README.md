@@ -15,7 +15,7 @@
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![PGSQL](https://img.shields.io/badge/-postgresql-333333?style=flat&logo=postgresq)
-![NESTJS](NESTJS)
+![NESTJS](https://img.shields.io/badge/-nest-333333?style=flat&logo=Nest)
 
 
 **Utilities**
