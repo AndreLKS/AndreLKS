@@ -14,7 +14,7 @@
 ![PHP](https://img.shields.io/badge/-php-333333?style=flat&logo=php)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![PGSQL](https://img.shields.io/badge/-postgresql-333333?style=flat&logo=postgresq)
+![PGSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)
 ![NESTJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=NestJS)
 
 
