@@ -7,8 +7,8 @@
 
 **Languages**
 
-![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-![JAVA](https://img.shields.io/badge/-JAVA-333333?style=flat&logo=java)
+![PHP](https://img.shields.io/badge/-PHP-%23777BB4?style=flat&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
